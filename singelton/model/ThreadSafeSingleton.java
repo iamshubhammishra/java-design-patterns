@@ -1,4 +1,4 @@
-package helper.singelton;
+package singelton.model;
 
 public class ThreadSafeSingleton implements Cloneable {
     private static ThreadSafeSingleton instance = null;

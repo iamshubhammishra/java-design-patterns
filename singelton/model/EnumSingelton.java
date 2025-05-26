@@ -1,4 +1,4 @@
-package helper.singelton;
+package singelton.model;
 
 public enum EnumSingelton {
     INSTANCE;

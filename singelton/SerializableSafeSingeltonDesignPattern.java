@@ -1,6 +1,7 @@
-package mains.Singelton;
+package singelton;
 
-import helper.singelton.*;
+import singelton.model.SerializableSafeSingleton;
+import singelton.model.SingeltonPattern;
 
 import java.io.*;
 

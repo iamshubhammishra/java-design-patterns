@@ -1,6 +1,4 @@
-package helper.singelton;
-
-import java.io.Serializable;
+package singelton.model;
 
 public class CloneSafeSingleton implements Cloneable {
     private static CloneSafeSingleton instance = null;

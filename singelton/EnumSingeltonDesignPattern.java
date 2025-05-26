@@ -1,6 +1,6 @@
-package mains.Singelton;
+package singelton;
 
-import helper.singelton.EnumSingelton;
+import singelton.model.EnumSingelton;
 
 public class EnumSingeltonDesignPattern {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package mains.Singelton;
+package singelton;
 
-import helper.singelton.*;
+import singelton.model.SingeltonPattern;
 
 public class SingeltonDesignPattern {
     public static void main(String[] args) {

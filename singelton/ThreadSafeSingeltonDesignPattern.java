@@ -1,6 +1,6 @@
-package mains.Singelton;
+package singelton;
 
-import helper.singelton.*;
+import singelton.model.ThreadSafeSingleton;
 
 public class ThreadSafeSingeltonDesignPattern {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
-package mains.Singelton;
+package singelton;
 
-import helper.singelton.*;
+import singelton.model.CloneSafeSingleton;
+import singelton.model.SingeltonPattern;
 
 public class CloneSafeSingeltonDesignPattern {
     public static void main(String[] args) throws CloneNotSupportedException {
