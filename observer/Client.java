@@ -13,6 +13,6 @@ public class Client {
         newsChanel.registerObserver(subscriberTwo);
 
         newsChanel.setNews("Observer Pattern Released in Java!");
-        newsChanel.setNews("Iterator Pattern will Release in Java!");
+        newsChanel.setNews("Iterator.Iterator Pattern will Release in Java!");
     }
 }
